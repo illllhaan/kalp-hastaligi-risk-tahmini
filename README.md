@@ -48,5 +48,5 @@ Depoda yer alan PDF formatındaki poster, projenin sadece teknik bir kod yığı
 
 **İlhan Yiğit Kocadere**  
 *Kapadokya Üniversitesi - Yönetim Bilişim Sistemleri 
-- [LinkedIn Profilim]: linkedin.com/in/ilhan-yiğit-kocadere-b0a0ab32a/
-- [GitHub Profilim]: https://github.com/illllhaan
+- [LinkedIn Profilim]: (linkedin.com/in/ilhan-yiğit-kocadere-b0a0ab32a/)
+- [GitHub Profilim]: (https://github.com/illllhaan)
